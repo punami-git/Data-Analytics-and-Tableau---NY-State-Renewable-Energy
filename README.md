@@ -1,3 +1,4 @@
-Please download the Tableau file from the link below:
+Follow the below link to access this project on the Tableau public server
 
-https://drive.google.com/file/d/1ThAkOlKWTIJUzXmkkXYnuFEt23E1Jgsh/view?usp=sharing
+https://public.tableau.com/views/NYStateRenewableEnergyProjects/DashboardSheetSwap?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
